@@ -1,10 +1,12 @@
 **Siri对接esp8266语音控制自制智能家居**
 首先上视频，看下效果：
-<iframe src="//player.bilibili.com/player.html?aid=33278301&cid=58246959&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+![](https://i.loli.net/2018/10/11/5bbea27042402.png)
+
+[https://www.bilibili.com/video/av33278301/](https://www.bilibili.com/video/av33278301/)
 
 > 实际安装效果
 
-<iframe src="//player.bilibili.com/player.html?aid=33020840&cid=57798332&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[https://www.bilibili.com/video/av33020840/](https://www.bilibili.com/video/av33020840/)
 
 > 其次是esp8266代码在本人github里，转载请注明出处。
 [https://github.com/az666/Siri-and-esp8266](https://github.com/az666/Siri-and-esp8266)
