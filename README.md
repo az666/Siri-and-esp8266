@@ -18,4 +18,14 @@
 
 > 工作原理：
 > esp8266建立小型局域网服务器，siri通过捷径访问ip esp8266检测到指定ip执行相应动作。
+> 2018年10月26日更新
+![](https://i.loli.net/2018/10/26/5bd305371f3e9.jpg)
+![](https://i.loli.net/2018/10/26/5bd305430eaa0.jpg)
+> 微信配网
+![](https://i.loli.net/2018/10/26/5bd30552dede9.jpg)
+> 安卓配网
+![](https://i.loli.net/2018/10/26/5bd305657b504.jpg)
+
+
+
 
